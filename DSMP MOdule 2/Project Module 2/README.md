@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis Analysis
-![sales](https://github.com/user-attachments/assets/0e47c958-5990-4a45-932a-5924711cafff)
+![images](https://github.com/user-attachments/assets/814a8715-3b67-48dc-ad43-65ba4059b925)
 
 This project is an in-depth analysis of e-commerce transactional data to extract meaningful insights using SQL and Pandas, and to visualize key metrics using Matplotlib and Seaborn. The findings and the entire workflow have been documented in this repository.
 
